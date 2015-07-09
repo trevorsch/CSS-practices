@@ -9,3 +9,10 @@ img {
 }
 
 /* Code Under This Line */
+div.short {
+  height: 100px;
+}
+
+div.tall {
+  height: 200px;
+}
